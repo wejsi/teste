@@ -2,7 +2,7 @@
 
 ## Pre-requisitos claro-mobile-cliente
 1. Instalar [**N**ode.js](https://nodejs.org)
-2. Instalar o clientet Angular enpm i angular-cli -g`
+2. Instalar o cliente Angular executando npm i angular-cli -g`
 3. Localizar a raiz do projeto executando o comando: `npm i`
 
 ## Run
@@ -20,6 +20,9 @@
 2. Iniciar o sgbd HsqlDB.bat na raiz claro-mobile-server 
 3. Localizar e executar a classe org.claro.config.Aplication
 4. Url do serviço [localhost:8080](http://localhost:8080)
+5. 
+     usuário: admin
+     senha: admin
 
 
 ### Author
