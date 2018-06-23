@@ -18,7 +18,8 @@ export class DataService {
     this.baseUrl = 'http://localhot:8080';
     
     this.username = 'admin'; 
-    this.password = 'admin';        this.options.headers.set('Authorization', 'Basic ' + btoa(username + ':' + password));
+    this.password = 'admin';        
+    this.options.headers.set('Authorization', 'Basic ' + btoa(username + ':' + password));
     
     
   }
